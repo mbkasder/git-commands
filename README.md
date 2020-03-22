@@ -37,4 +37,13 @@ git log -5
 git reset --hard HEAD~1 #previous , change 1 to specific to change head to that of previous commit and loose current data but use --soft for otherwise
 git push -f
 
+
+To add branch:
+
+
+To merge branch:
+
+To rebase:
+
+To 
 ```
