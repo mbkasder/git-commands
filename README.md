@@ -35,6 +35,7 @@ git push
 To delete last commit or undo:
 git log -5
 git reset --hard HEAD~1 #previous , change 1 to specific to change head to that of previous commit and loose current data but use --soft for otherwise
+(HEAD is like a pointer to list of commits)
 git push -f
 
 
